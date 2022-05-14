@@ -46,7 +46,7 @@
         <div class="row">
             <div class="col">
                 <h1>İletişim Formu</h1>
-                <form action="iletisim.php" method="POST">
+                <form action="iletisim-check.php" method="POST">
                     <div class="form-group">
                         <label for="nameField">Adınız</label>
                         <input type="text" class="form-control" id="nameField" placeholder="Adınızı Giriniz" name="firstName">
@@ -83,7 +83,12 @@
                             </label>
                         </div>
                     </div>
-                    <button type="submit" class="btn btn-primary" name="gonder">Gönder</button>
+                    <span id="errorMessage" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Lütfen tüm alanları doldurunuz.">
+                        <button disabled type="submit" class="btn btn-primary" name="gonder">
+                            Gönder
+                        </button>
+                    </span>
+                    <button type="reset" class="btn btn-secondary">Temizle</button>
                 </form>
             </div>
         </div>
@@ -104,6 +109,7 @@
 
 
     <script src="js/script.js"></script>
+    <script src="js/contact-validate.js"></script>
 </body>
 
 </html>
