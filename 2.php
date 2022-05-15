@@ -45,8 +45,8 @@
     <div class="container main-content">
         <div class="row">
             <div class="col">
-                <p>Lüleburgaz tren garı</p>
-                
+                <p>Sokullu Mehmet Paşa Külliyesi</p>
+           
 
             </div>
         </div>

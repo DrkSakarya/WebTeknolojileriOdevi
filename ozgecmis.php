@@ -53,7 +53,7 @@
                 <main class="cv-main">
                     <aside class="cv-aside">
                         <h2>Profil</h2>
-                        <img class="cv-photo" src="img/pp.png" width="70%" class="img-fluid">
+                        <img class="cv-photo" src="img/pp.jpg" width="70%" class="img-fluid">
                         <p>
                             Merhaba, Ben Dorukan. Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Çocukluğumdan beri teknoloji ile iç içe olmayı seviyorum. 
                         </p>

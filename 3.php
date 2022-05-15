@@ -45,7 +45,7 @@
     <div class="container main-content">
         <div class="row">
             <div class="col">
-                <p>Lüleburgaz tren garı</p>
+                <p>Uluslararası bisiklet parkı</p>
                 
 
             </div>
