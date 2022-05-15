@@ -11,8 +11,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
     <?php
-    $email = "b1812100001@sakarya.edu.tr";
-    $password = "b1812100001";
+    $email = "dorukan.uysal@ogr.sakarya.edu.tr";
+    $password = "g201210040";
     $form_page = '<h1>Login</h1>
     <form action="login.php" method="POST">
         <div class="form-group">
@@ -63,7 +63,7 @@
             <div class="col">
                 <?php if(isset($_POST['email']) && isset($_POST['password'])){
                     if($_POST['email'] == $email && $_POST['password'] == $password){
-                        echo "<h1>Hoşgeldiniz b1812100001, giriş başarılı.</h1>";
+                        echo "<h1>Hoşgeldiniz g201210040, giriş başarılı.</h1>";
                     }else{
                         echo "<h1>Hatalı Giriş!</h1>".$form_page;
                     }

@@ -13,65 +13,135 @@
 </head>
 
 <body>
-    <!--Navbar Start-->
+    <!--Navbar Başlangıç-->
     <div class="container-fluid header">
         <div class="row">
-                <div class="col-md menu-item">
-                    <a href="index.php">Hakkında</a>
-                </div>
-                <div class="col-md menu-item active">
-                    <a href="ozgecmis.php">Özgeçmiş</a>
-                </div>
-                <div class="col-md menu-item">
-                    <a href="sehrim.php">Şehrim</a>
-                </div>
-                <div class="col-md menu-item">
-                    <a href="mirasimiz.php">Mirasımız</a>
-                </div>
-                <div class="col-md menu-item">
-                    <a href="hobilerim.php">İlgi Alanlarım</a>
-                </div>
-                <div class="col-md menu-item">
-                    <a href="login.php">Login</a>
-                </div>
-                <div class="col-md menu-item">
-                    <a href="iletisim.php">İletişim</a>
-                </div>
-        </div>
-    </div>
-    <!--Navbar End-->
-
-    <!--Content Start-->
-    <div class="container main-content">
-        <div class="row">
-            <div class="col">
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni veritatis consequatur sint, amet laboriosam, maxime voluptatibus dicta dolor, nostrum molestiae minus dolorum odit fuga? Vitae eum totam culpa iure sequi. Soluta consequatur
-                    qui tenetur vero ullam aperiam libero pariatur aspernatur laboriosam, tempore harum autem quibusdam commodi reprehenderit maiores atque quisquam debitis voluptatibus iure facilis placeat nemo? Numquam illum, dolorem optio eveniet aliquid,
-                    asperiores quod sapiente sunt repudiandae quis recusandae? Odio inventore cupiditate ex itaque, quod at accusantium laboriosam iusto libero repellendus explicabo sequi, fugit quidem voluptates corporis a ipsam quia earum possimus distinctio.
-                    Alias illum eum quia adipisci aliquid magnam?</p>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni veritatis consequatur sint, amet laboriosam, maxime voluptatibus dicta dolor, nostrum molestiae minus dolorum odit fuga? Vitae eum totam culpa iure sequi. Soluta consequatur
-                    qui tenetur vero ullam aperiam libero pariatur aspernatur laboriosam, tempore harum autem quibusdam commodi reprehenderit maiores atque quisquam debitis voluptatibus iure facilis placeat nemo? Numquam illum, dolorem optio eveniet aliquid,
-                    asperiores quod sapiente sunt repudiandae quis recusandae? Odio inventore cupiditate ex itaque, quod at accusantium laboriosam iusto libero repellendus explicabo sequi, fugit quidem voluptates corporis a ipsam quia earum possimus distinctio.
-                    Alias illum eum quia adipisci aliquid magnam?</p>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni veritatis consequatur sint, amet laboriosam, maxime voluptatibus dicta dolor, nostrum molestiae minus dolorum odit fuga? Vitae eum totam culpa iure sequi. Soluta consequatur
-                    qui tenetur vero ullam aperiam libero pariatur aspernatur laboriosam, tempore harum autem quibusdam commodi reprehenderit maiores atque quisquam debitis voluptatibus iure facilis placeat nemo? Numquam illum, dolorem optio eveniet aliquid,
-                    asperiores quod sapiente sunt repudiandae quis recusandae? Odio inventore cupiditate ex itaque, quod at accusantium laboriosam iusto libero repellendus explicabo sequi, fugit quidem voluptates corporis a ipsam quia earum possimus distinctio.
-                    Alias illum eum quia adipisci aliquid magnam?</p>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni veritatis consequatur sint, amet laboriosam, maxime voluptatibus dicta dolor, nostrum molestiae minus dolorum odit fuga? Vitae eum totam culpa iure sequi. Soluta consequatur
-                    qui tenetur vero ullam aperiam libero pariatur aspernatur laboriosam, tempore harum autem quibusdam commodi reprehenderit maiores atque quisquam debitis voluptatibus iure facilis placeat nemo? Numquam illum, dolorem optio eveniet aliquid,
-                    asperiores quod sapiente sunt repudiandae quis recusandae? Odio inventore cupiditate ex itaque, quod at accusantium laboriosam iusto libero repellendus explicabo sequi, fugit quidem voluptates corporis a ipsam quia earum possimus distinctio.
-                    Alias illum eum quia adipisci aliquid magnam?</p>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni veritatis consequatur sint, amet laboriosam, maxime voluptatibus dicta dolor, nostrum molestiae minus dolorum odit fuga? Vitae eum totam culpa iure sequi. Soluta consequatur
-                    qui tenetur vero ullam aperiam libero pariatur aspernatur laboriosam, tempore harum autem quibusdam commodi reprehenderit maiores atque quisquam debitis voluptatibus iure facilis placeat nemo? Numquam illum, dolorem optio eveniet aliquid,
-                    asperiores quod sapiente sunt repudiandae quis recusandae? Odio inventore cupiditate ex itaque, quod at accusantium laboriosam iusto libero repellendus explicabo sequi, fugit quidem voluptates corporis a ipsam quia earum possimus distinctio.
-                    Alias illum eum quia adipisci aliquid magnam?</p>
-
+            <div class="col-md menu-item">
+                <a href="index.php">Hakkında</a>
+            </div>
+            <div class="col-md menu-item active">
+                <a href="ozgecmis.php">Özgeçmiş</a>
+            </div>
+            <div class="col-md menu-item">
+                <a href="sehrim.php">Şehrim</a>
+            </div>
+            <div class="col-md menu-item">
+                <a href="mirasimiz.php">Mirasımız</a>
+            </div>
+            <div class="col-md menu-item">
+                <a href="hobilerim.php">İlgi Alanlarım</a>
+            </div>
+            <div class="col-md menu-item">
+                <a href="login.php">Login</a>
+            </div>
+            <div class="col-md menu-item">
+                <a href="iletisim.php">İletişim</a>
             </div>
         </div>
     </div>
-    <!--Content End-->
+    <!--Navbar Bitiş-->
 
-    <!--Footer Start-->
+    <!--İçerik Başlangıç-->
+    <div class="container main-content">
+        <div class="row">
+            <div class="col">
+                <!-- Semantik etiketler ve benimle ilgili eğitim bilgileri içeren özgeçmiş/özgeçmiş sayfası
+ -->
+                <header class="cv-header">
+                    <h1>Özgeçmiş</h1>
+                </header>
+                <main class="cv-main">
+                    <aside class="cv-aside">
+                        <h2>Profil</h2>
+                        <img class="cv-photo" src="img/pp.png" width="70%" class="img-fluid">
+                        <p>
+                            Merhaba, Ben Dorukan. Sakarya Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Çocukluğumdan beri teknoloji ile iç içe olmayı seviyorum. 
+                        </p>
+                    </aside>
+                    <section class="cv-section">
+                        <h2>Eğitim</h2>
+                        <ul class="cv-list">
+                            <li class="cv-item">
+                                <h3>Sakarya Üniversitesi</h3>
+                                <p>Bilgisayar Mühendisliği</p>
+                                <p>2020 - Devam</p>
+                            </li>
+                            <li class="cv-item">
+                                <h3>Kırklareli Fen Lisesi</h3>
+                                <p>Sayısal</p>
+                                <p>2016 - 2019</p>
+                            </li>
+                            
+                        </ul>
+                    </section>
+                    <section class="cv-section">
+                        <h2>Yetenekler</h2>
+                        <ul class="cv-list">
+                            <li class="cv-item">
+                                <h3>Javascript</h3>
+                                <p>Orta Düzey</p>
+                            </li>
+                            <li class="cv-item">
+                                <h3>PHP</h3>
+                                <p>Orta Düzey</p>
+                            </li>
+                            <li class="cv-item">
+                                <h3>HTML</h3>
+                                <p>Orta Düzey</p>
+                            </li>
+                            <li class="cv-item">
+                                <h3>CSS</h3>
+                                <p>Orta Düzey</p>
+                            </li>
+                        </ul>
+                    </section>
+                    <section class="cv-section">
+                        <h2>Deneyim</h2>
+                        <ul class="cv-list">
+                            <li class="cv-item">
+                                <h3>Türk Hava Kurumu</h3>
+                                <p>Genç Kanat</p>
+                                <p>2017</p>
+                            </li>
+                            <li class="cv-item">
+                                <h3>Tema</h3>
+                                <p>Gönüllü</p>
+                                <p>2018</p>
+                            </li>
+                        </ul>
+                    </section>
+
+                </main>
+                <footer class="cv-footer">
+                    <!-- Bağlantı Bilgisi-->
+                    <ul class="cv-list cv-footer-list">
+                        <li class="cv-item">
+                            <h3>Adres</h3>
+                            <p>Aydınevler 3.Kısım Lüleburgaz/Kırklareli</p>
+                        </li>
+                        <li class="cv-item">
+                            <h3>E-posta</h3>
+                            <p>
+                                <a href="mailto:
+                                dorukan.uysal@ogr.sakarya.edu.tr">
+                                dorukan.uysal@ogr.sakarya.edu.tr </a>
+                            </p>
+                        </li>
+                        <li class="cv-item">
+                            <h3>Telefon</h3>
+                            <p>
+                                <a href="tel:0555555555">
+                                    05396855657</a>
+                            </p>
+                        </li>
+                    </ul>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <!--İçerik Bitiş-->
+
+    <!--Footer -->
     <div class="container-fluid footer">
         <div class="row">
             <div class="col text-center">

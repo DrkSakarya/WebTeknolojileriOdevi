@@ -45,27 +45,8 @@
     <div class="container main-content">
         <div class="row">
             <div class="col">
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni veritatis consequatur sint, amet laboriosam, maxime voluptatibus dicta dolor, nostrum molestiae minus dolorum odit fuga? Vitae eum totam culpa iure sequi. Soluta consequatur
-                    qui tenetur vero ullam aperiam libero pariatur aspernatur laboriosam, tempore harum autem quibusdam commodi reprehenderit maiores atque quisquam debitis voluptatibus iure facilis placeat nemo? Numquam illum, dolorem optio eveniet aliquid,
-                    asperiores quod sapiente sunt repudiandae quis recusandae? Odio inventore cupiditate ex itaque, quod at accusantium laboriosam iusto libero repellendus explicabo sequi, fugit quidem voluptates corporis a ipsam quia earum possimus distinctio.
-                    Alias illum eum quia adipisci aliquid magnam?</p>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni veritatis consequatur sint, amet laboriosam, maxime voluptatibus dicta dolor, nostrum molestiae minus dolorum odit fuga? Vitae eum totam culpa iure sequi. Soluta consequatur
-                    qui tenetur vero ullam aperiam libero pariatur aspernatur laboriosam, tempore harum autem quibusdam commodi reprehenderit maiores atque quisquam debitis voluptatibus iure facilis placeat nemo? Numquam illum, dolorem optio eveniet aliquid,
-                    asperiores quod sapiente sunt repudiandae quis recusandae? Odio inventore cupiditate ex itaque, quod at accusantium laboriosam iusto libero repellendus explicabo sequi, fugit quidem voluptates corporis a ipsam quia earum possimus distinctio.
-                    Alias illum eum quia adipisci aliquid magnam?</p>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni veritatis consequatur sint, amet laboriosam, maxime voluptatibus dicta dolor, nostrum molestiae minus dolorum odit fuga? Vitae eum totam culpa iure sequi. Soluta consequatur
-                    qui tenetur vero ullam aperiam libero pariatur aspernatur laboriosam, tempore harum autem quibusdam commodi reprehenderit maiores atque quisquam debitis voluptatibus iure facilis placeat nemo? Numquam illum, dolorem optio eveniet aliquid,
-                    asperiores quod sapiente sunt repudiandae quis recusandae? Odio inventore cupiditate ex itaque, quod at accusantium laboriosam iusto libero repellendus explicabo sequi, fugit quidem voluptates corporis a ipsam quia earum possimus distinctio.
-                    Alias illum eum quia adipisci aliquid magnam?</p>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni veritatis consequatur sint, amet laboriosam, maxime voluptatibus dicta dolor, nostrum molestiae minus dolorum odit fuga? Vitae eum totam culpa iure sequi. Soluta consequatur
-                    qui tenetur vero ullam aperiam libero pariatur aspernatur laboriosam, tempore harum autem quibusdam commodi reprehenderit maiores atque quisquam debitis voluptatibus iure facilis placeat nemo? Numquam illum, dolorem optio eveniet aliquid,
-                    asperiores quod sapiente sunt repudiandae quis recusandae? Odio inventore cupiditate ex itaque, quod at accusantium laboriosam iusto libero repellendus explicabo sequi, fugit quidem voluptates corporis a ipsam quia earum possimus distinctio.
-                    Alias illum eum quia adipisci aliquid magnam?</p>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni veritatis consequatur sint, amet laboriosam, maxime voluptatibus dicta dolor, nostrum molestiae minus dolorum odit fuga? Vitae eum totam culpa iure sequi. Soluta consequatur
-                    qui tenetur vero ullam aperiam libero pariatur aspernatur laboriosam, tempore harum autem quibusdam commodi reprehenderit maiores atque quisquam debitis voluptatibus iure facilis placeat nemo? Numquam illum, dolorem optio eveniet aliquid,
-                    asperiores quod sapiente sunt repudiandae quis recusandae? Odio inventore cupiditate ex itaque, quod at accusantium laboriosam iusto libero repellendus explicabo sequi, fugit quidem voluptates corporis a ipsam quia earum possimus distinctio.
-                    Alias illum eum quia adipisci aliquid magnam?</p>
-
+                <p>Merhaba! Web siteme hoşgeldiniz...</p>
+               
             </div>
         </div>
     </div>

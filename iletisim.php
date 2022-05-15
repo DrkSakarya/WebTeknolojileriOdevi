@@ -84,7 +84,7 @@
                         </div>
                     </div>
                     <span id="errorMessage" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Lütfen tüm alanları doldurunuz.">
-                        <button disabled type="submit" class="btn btn-primary" name="gonder">
+                        <button id="submitButton" disabled type="submit" class="btn btn-primary" name="gonder">
                             Gönder
                         </button>
                     </span>

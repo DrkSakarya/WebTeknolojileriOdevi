@@ -51,3 +51,59 @@ a {
     color: inherit !important;
     width: 100%;
 }
+
+textarea {
+    resize: none !important;
+}
+
+.header {
+    margin-bottom: 50px;
+}
+
+.cv-header {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.cv-main {
+    margin-bottom: 50px;
+    border: 1px solid #e5e5e5;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: justify;
+}
+
+.cv-footer {
+    margin-bottom: 50px;
+    text-align: center;
+    border: 1px solid #e5e5e5;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+aside.cv-aside {
+    /* make the aside element float right */
+    float: right;
+    /* make the aside element take up half the width of the page */
+    width: 50%;
+    /* make the aside element take up the remaining height of the page */
+    height: 100%;
+    border: 1px solid #e5e5e5;
+    padding: 10px;
+    text-align: center;
+}
+
+.cv-section {
+    margin-bottom: 50px;
+    text-align: justify;
+    padding: 10px;
+}
+
+.cv-footer-list {
+    list-style: none;
+}
+
+.splide {
+    border: 1px solid #e5e5e5;
+    text-align: center;
+}
